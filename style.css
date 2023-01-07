@@ -1,0 +1,39 @@
+*{
+    margin:0;
+}
+
+/* header banner start */
+.header-banner{
+    position: relative;
+    text-align: center;
+  
+}
+.descriPtion-title{
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    margin-left: 1000px;
+}
+
+h1{
+    color:ghostwhite;
+    font-size: 50px;
+    margin-bottom: 10Px;
+}
+h5{
+    color:black;
+    font-size: 16Px;
+    margin-bottom: 30px;
+}
+.btn{
+    color:aqua;
+    font-size: 20px;
+    background-color: black;
+    border: none;
+    padding: 10px 20Px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+/* header banner end */
+/* main section */
